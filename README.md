@@ -58,4 +58,18 @@ My projects will be showcased here as I complete them.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedmedooo998-stack&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmedooo998-stack&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Learn. Build. Improve. Repeat.
+
+**Thanks for visiting my profile!**
+
+</div>
+
 ![Top Languages](https://
