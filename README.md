@@ -51,6 +51,13 @@ I'm building my programming knowledge step by step through practice, problem-sol
 I'm currently building my programming foundations.
 
 My projects will be showcased here as I complete them.
+
+---
+
+<div align="center">
+
+### 💡 Learn. Build. Improve. Repeat.
+
 **Thanks for visiting my profile!**
 
 </div>
