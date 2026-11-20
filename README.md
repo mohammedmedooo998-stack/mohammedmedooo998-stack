@@ -7,7 +7,6 @@
 **Building my foundations today. Creating useful software tomorrow.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohammedmedooo998-stack&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/mohammedmedooo998-stack?style=flat&color=blue)
 
 </div>
 
@@ -59,7 +58,3 @@ My projects will be showcased here as I complete them.
 ### 💡 Learn. Build. Improve. Repeat.
 
 **Thanks for visiting my profile!**
-
-</div>
-
-![Top Languages](https://
